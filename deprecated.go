@@ -2,7 +2,6 @@
 package host
 
 import (
-	"github.com/libp2p/go-libp2p-core/helpers"
 	"github.com/libp2p/go-libp2p-core/peer"
 	"github.com/libp2p/go-libp2p-core/protocol"
 
